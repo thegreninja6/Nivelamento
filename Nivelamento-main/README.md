@@ -1,2 +1,0 @@
-# Nivelamento
-Trabalho Em Dupla
