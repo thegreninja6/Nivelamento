@@ -51,7 +51,7 @@ header .subtitle {
     max-width: 100%;
     height: auto;
     border-radius: 10px;
-    
+
 }
 
 .specs {
@@ -82,14 +82,14 @@ header .subtitle {
     margin-bottom: 10px;
 }
 
-.final-message {
+.mensagem-final {
     text-align: center;
     padding: 20px;
     background-color: #333;
     margin: 40px 0;
 }
 
-.final-message h1 {
+.mensagem-final h1 {
     font-size: 1.2em;
     color: #ffcc00;
 }
