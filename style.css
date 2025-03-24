@@ -66,7 +66,7 @@ header .subtitle {
     padding: 20px;
     border-radius: 10px;
     width: 300px;
-
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
 
 .specs .spec h1 {
@@ -83,14 +83,14 @@ header .subtitle {
     margin-bottom: 10px;
 }
 
-.mensagem-final {
+.final-message {
     text-align: center;
     padding: 20px;
     background-color: #333;
     margin: 40px 0;
 }
 
-.mensagem-final h1 {
+.final-message h1 {
     font-size: 1.2em;
     color: #ffcc00;
 }
